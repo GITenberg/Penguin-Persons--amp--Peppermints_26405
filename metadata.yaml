@@ -1,0 +1,36 @@
+_repo: Penguin-Persons--amp--Peppermints_26405
+_version: 0.1.0
+alternative_title: Penguin Persons and Peppermints
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eaton, Walter Prichard
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '31982'
+    url: http://www.gutenberg.org/2009/agents/31982
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: Penguin persons -- Spring comes to Thumping Dick -- The passing of
+  the stage sundial -- On singing songs with one finger -- The immorality of shop-windows
+  -- A forgotten American poet -- New poetry and the lingering line -- The lies we
+  learn in our youth -- The bad manners of polite people -- On giving up golf forever
+  -- "Grape-vine" erudition -- Business before grammar -- Wood ashes and progress
+  -- The vacant room in drama -- On giving an author a plot -- The twilight veil --
+  Spring in the garden -- The bubble, reputation -- The old house on the bend -- Concerning
+  hat-trees -- The shrinking of Kingman's Field -- Mumblety-peg and middle age --
+  Barber shops of yesterday -- The button box -- Peppermints.
+title: Penguin Persons & Peppermints
+url: http://www.gutenberg.org/ebooks/26405
